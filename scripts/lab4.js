@@ -10,7 +10,7 @@ function sumValues(num1, num2, add) {
         return false;
     }
     if (add) {
-        const result = 0;
+        let result = 0;
 
         result = num1 + num2;
 
